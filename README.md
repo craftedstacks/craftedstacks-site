@@ -5,7 +5,7 @@ Static product and support website for Crafted Stacks and Measured.
 ## Local preview
 
 ```bash
-python3 -m http.server 5180
+python3 -m http.server 5180 --directory public
 ```
 
 Open `http://127.0.0.1:5180/`.
